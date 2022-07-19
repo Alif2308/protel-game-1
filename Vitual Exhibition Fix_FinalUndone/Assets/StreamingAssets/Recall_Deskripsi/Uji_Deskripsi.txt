@@ -1,0 +1,13 @@
+1234567890
+Ini merupakan file ujicoba deskripsi dari UI deskripsi apakah dapat menampung data text yang banyak serta apakah ganti baris juga berfungsi
+
+coba spasi
+
+
+ini merupakan
+
+itu
+
+iy apakaha
+......
+ini akhir dari file teks ujicoba....

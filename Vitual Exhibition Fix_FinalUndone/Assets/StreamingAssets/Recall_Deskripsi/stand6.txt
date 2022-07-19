@@ -1,0 +1,1 @@
+Merupakan alat monitoring AC yang dapat melakukan otomasi perubahan suhu AC secara realtime menggunakan Machine Learning. Fitur utama dari produk ini adalah adanya otomasi pengaturan suhu AC berdasarkan jumlah orang dan suhu ruangan setiap 15 menit, terdapat pengaturan manual AC dari alat, dan monitoring ruangan menggunakan IP Camera yang terhubung ke alat dan AC.

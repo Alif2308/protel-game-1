@@ -1,0 +1,1 @@
+Produk ini merupakan suatu penerjemah menggunakan computer vision yang memiliki fitur yaitu livestream untuk mendeteksi huruf dari bentuk jari yang ditangkap oleh kamera, gabung kata untuk menyimpan huruf yang telah didieteksi secara sementara, dan perpustakaan berupa library yang menjelaskan tentang bentuk sign language dari tiap huruf alphabet yang ada.

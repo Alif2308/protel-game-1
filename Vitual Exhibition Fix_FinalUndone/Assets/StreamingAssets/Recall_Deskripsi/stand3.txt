@@ -1,0 +1,1 @@
+Face Mask and Crowd Detection System Using Camera merupakan suatu perangkat sistem yang memiliki tujuan untuk mencegah penyebaran virus SARS-COV-2 di era New Normal ini dengan menerapkan protokol kesehatan pada suatu tempat untuk kemudian memberi peringatan ketika adanya pelanggaran protokol kesehatan.

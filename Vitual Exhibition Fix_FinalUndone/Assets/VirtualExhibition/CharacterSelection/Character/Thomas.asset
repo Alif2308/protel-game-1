@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96757038bb6e26a4e9490ac1266946d5, type: 3}
+  m_Name: Thomas
+  m_EditorClassIdentifier: 
+  characterName: MAN
+  characterPreviewPrefab: {fileID: 7924626091889497191, guid: 9a4a6f68c25d82a4cb72e4f5aae6769a, type: 3}
+  gameplayCharacterPrefab: {fileID: 8450235235176885203, guid: 16d62fa66ff946740bea8f805457494c, type: 3}

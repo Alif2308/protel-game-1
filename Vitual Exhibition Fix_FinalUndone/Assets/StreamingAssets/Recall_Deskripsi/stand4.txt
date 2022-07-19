@@ -1,0 +1,1 @@
+Proyek Sistem Secure Parking dengan Deteksi Wajah dan Plat Nomor merupakan suatu sistem yang dapat berjalan sendiri, tanpa perlu di monitoring manusia dalam 24 jamengan harapan sistem tersebut dapat mengatasi permasalahan tindak kriminal pencurian motor dikarenakan, ketika pengguna ingin memasuki lahan parkir akan diperiksa plat nomor dan juga deteksi wajah oleh mesin.

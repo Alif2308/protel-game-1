@@ -1,0 +1,1 @@
+Dibangunnya suatu sistem untuk mengumpulkan hasil karya dari Mata Kuliah Proyek Telematikan Mahasiswa Teknik Komputer dan melakukan visualisasi secara terbuka. Sistem tersebut berupa Virtual Exhibition Proyek Telematika berbasis website agar karya yang sudah dihasilkan dapat ditunjukkan dan dilihat oleh banyak orang secara virtual dan online.

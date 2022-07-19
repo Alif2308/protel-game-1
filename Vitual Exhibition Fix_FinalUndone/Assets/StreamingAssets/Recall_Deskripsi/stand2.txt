@@ -1,0 +1,1 @@
+sistem berbasis app pada smartphone yang dapat melakukan pengecekan serta pengidentifikasian terhadap tanaman tersebut. Data yang digunakan berupa foto yang bisa diambil menggunakan kamera maupun dari gallery yang akan direkam, dideteksi fitur khususnya dan ditampilkan jenis tanaman yang terdeteksi.

@@ -1,0 +1,1 @@
+Merupakan aplikasi kaos custom yang memudahkan pembuatan kaos custom untuk pengguna dan penjual kaos. Memiliki fitur utama berupa pemilihan gambar sesuai keinginan dari pengguna, proses kustomisasi kaos yang mudah, dan proses fitting baju yang mudah.
